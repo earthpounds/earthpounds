@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @earthpounds!
 - 👀 I’m interested in learning coding!
 - 🌱 I’m currently learning the basics of Python!
-- 💞️ I’m looking to collaborate on ntohing at the moment!
+- 💞️ I’m looking to collaborate on nothing at the moment!
 - 📫 You can reach me at earthpounds@proton.me!
 
 <!---
